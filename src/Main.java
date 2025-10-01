@@ -99,7 +99,7 @@ public class Main {
             throw new RuntimeException(ex);
         }
 
-/*
+
         Path cesta1 = Path.of("knihy.json");
         int max=0;
         String jmeno="";
@@ -167,6 +167,6 @@ public class Main {
         System.out.println("Sci-fi:"+sci_fi+" knih, Fantasy:"+fantasy+" knih, Roman:"+roman+" knih, Popularne-naucna:"+naucna+" knih" +
                 ", Magicky realismus:"+magie+" knih, Dystopie:"+dystopie+" knih, Historie:"+historie+" knih");
 
-*/
+
     }
 }
