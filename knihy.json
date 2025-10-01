@@ -1,0 +1,62 @@
+{"knihy": [
+  {
+    "zanr": "Sci-fi",
+    "nazev": "Duna",
+    "stran": 650,
+    "autor": "Frank Herbert"
+  },
+  {
+    "zanr": "Román",
+    "nazev": "Kronika ptáčka na klíček",
+    "stran": 580,
+    "autor": "Haruki Murakami"
+  },
+  {
+    "zanr": "Populárně-naučná",
+    "nazev": "Sapiens",
+    "stran": 512,
+    "autor": "Yuval Noah Harari"
+  },
+  {
+    "zanr": "Dystopie",
+    "nazev": "1984",
+    "stran": 328,
+    "autor": "George Orwell"
+  },
+  {
+    "zanr": "Fantasy",
+    "nazev": "Hobit",
+    "stran": 310,
+    "autor": "J. R. R. Tolkien"
+  },
+  {
+    "zanr": "Historie",
+    "nazev": "Bratrstvo Neohrožených",
+    "stran": 464,
+    "autor": "Stephen E. Ambrose"
+  },
+  {
+    "zanr": "Fantasy",
+    "nazev": "Pán prstenů: Společenstvo prstenu",
+    "stran": 423,
+    "autor": "J. R. R. Tolkien"
+  },
+  {
+    "zanr": "Magický realismus",
+    "nazev": "Sto roků samoty",
+    "stran": 448,
+    "autor": "Gabriel García Márquez"
+  },
+  {
+    "zanr": "Fantasy",
+    "nazev": "Harry potter",
+    "stran": 1500,
+    "autor": "J.K. Rowling"
+  },
+  {
+    "zanr": "Fantasy",
+    "nazev": "Harry potter",
+    "stran": 1500,
+    "autor": "J.K. Rowling"
+  }
+]}

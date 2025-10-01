@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<destinace>
+      
+  <misto id="1">
+            
+    <nazev>Paříž</nazev>
+            
+    <zeme>Francie</zeme>
+            
+    <cena>15000</cena>
+        
+  </misto>
+      
+  <misto id="2">
+            
+    <nazev>Řím</nazev>
+            
+    <zeme>Itálie</zeme>
+            
+    <cena>12000</cena>
+        
+  </misto>
+      
+  <misto id="3">
+            
+    <nazev>Lisabon</nazev>
+            
+    <zeme>Portugalsko</zeme>
+            
+    <cena>10500</cena>
+        
+  </misto>
+      
+  <misto id="4">
+            
+    <nazev>Tokyo</nazev>
+            
+    <zeme>Japonsko</zeme>
+            
+    <cena>34000</cena>
+        
+  </misto>
+      
+  <misto id="5">
+            
+    <nazev>Oslo</nazev>
+            
+    <zeme>Norsko</zeme>
+            
+    <cena>18000</cena>
+        
+  </misto>
+      
+  <misto id="6">
+            
+    <nazev>Athény</nazev>
+            
+    <zeme>Řecko</zeme>
+            
+    <cena>11000</cena>
+        
+  </misto>
+  
+  <misto id="7">
+    <nazev>Rokycany</nazev>
+    <zeme>Ceska Republika</zeme>
+    <cena>20000</cena>
+  </misto>
+</destinace>
