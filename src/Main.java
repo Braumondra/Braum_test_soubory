@@ -30,7 +30,7 @@ public class Main {
                     // Naparsování souboru do paměťového stromu
                     Document doc = builder.parse(in);
                     try (InputStream ab = Files.newInputStream(levne)) {
-                        Document levnejsi = builder.parse(ab);
+                       // Document levnejsi = builder.parse(ab);
 
 
                         // Nalezení všech elementů <student>
